@@ -98,7 +98,6 @@ public class IndigoHomePage {
 		productChoosed.click();
 		
 		quantitySelected = Utils.waitForElement("//select[@name='quantity-select']");
-		//quantitySelected = driver.findElement(By.cssSelector("select[name='quantity-select']"));
 		Select quantitySelectedList = new Select(quantitySelected);
 		quantitySelectedList.selectByVisibleText("2");
 		
