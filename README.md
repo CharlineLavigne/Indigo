@@ -1,5 +1,5 @@
 # Indigo Project
-Automation of some functionalities of Chapter Indigo's website (https://www.chapters.indigo.ca/en-ca/) using Selenium in Java
+Automation of some functionalities of Chapters Indigo's website (https://www.chapters.indigo.ca/en-ca/) using Selenium in Java
 
 ## Launch
 Please note that it is required to download Chromedriver in order to run the project on Chrome browser
